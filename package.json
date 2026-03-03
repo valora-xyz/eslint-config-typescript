@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/valora-inc/eslint-config-typescript.git"
+    "url": "https://github.com/valora-xyz/eslint-config-typescript.git"
   },
   "files": [
     "index.js"

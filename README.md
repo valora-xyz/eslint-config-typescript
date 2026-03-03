@@ -1,9 +1,9 @@
 # @valora/eslint-config-typescript
 
-[![GitHub License](https://img.shields.io/github/license/valora-inc/eslint-config-typescript?color=blue)](https://github.com/valora-inc/eslint-config-typescript/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/valora-xyz/eslint-config-typescript?color=blue)](https://github.com/valora-xyz/eslint-config-typescript/blob/main/LICENSE)
 [![npm version](https://img.shields.io/npm/v/@valora/eslint-config-typescript.svg)](https://www.npmjs.com/package/@valora/eslint-config-typescript)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/valora-inc/eslint-config-typescript/Workflow/main)](https://github.com/valora-inc/eslint-config-typescript/actions/workflows/workflow.yaml?query=branch%3Amain)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/valora-inc/eslint-config-typescript#contributing)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/valora-xyz/eslint-config-typescript/Workflow/main)](https://github.com/valora-xyz/eslint-config-typescript/actions/workflows/workflow.yaml?query=branch%3Amain)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/valora-xyz/eslint-config-typescript#contributing)
 
 Shareable ESLint config for Valora TypeScript packages.
 
@@ -49,8 +49,8 @@ ESLint [Shareable Configs](https://eslint.org/docs/developer-guide/shareable-con
 
 ## Contributing
 
-- [Reporting issues](https://github.com/valora-inc/eslint-config-typescript/issues)
-- [Submitting a pull request](https://github.com/valora-inc/eslint-config-typescript/pulls)
+- [Reporting issues](https://github.com/valora-xyz/eslint-config-typescript/issues)
+- [Submitting a pull request](https://github.com/valora-xyz/eslint-config-typescript/pulls)
 - Publishing updates is done automatically via [semantic-release](https://github.com/semantic-release/semantic-release).
   Remember to use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) or your PR will be rejected (since
   merging it would mess up the changelog and version numbers).
